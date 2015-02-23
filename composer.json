@@ -1,5 +1,7 @@
 {
   "name": "miukoba/tdd-money-php",
+  "description": "TDDの練習とCIサービスの試用",
+  "license": "proprietary",
   "require": {
     "phpunit/phpunit": "4.5.*"
   },
