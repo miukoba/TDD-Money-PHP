@@ -1,0 +1,22 @@
+{
+  "name": "miukoba/tdd-money-php",
+  "require": {
+    "phpunit/phpunit": "4.5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "miukoba\\TDD\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "miukoba\\TDD\\Tests\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "miukoba",
+      "email": "miukoba@gmail.com"
+    }
+  ]
+}
