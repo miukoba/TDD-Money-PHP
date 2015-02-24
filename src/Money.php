@@ -65,5 +65,4 @@ abstract class Money
     {
         return new Franc($amount, 'CHF');
     }
-
 }
