@@ -52,7 +52,7 @@ abstract class Money
      * @param $amount
      * @return Dollar
      */
-    static public function dollar($amount)
+    public static function dollar($amount)
     {
         return new Dollar($amount, 'USD');
     }
@@ -61,7 +61,7 @@ abstract class Money
      * @param $amount
      * @return Franc
      */
-    static public function franc($amount)
+    public static function franc($amount)
     {
         return new Franc($amount, 'CHF');
     }
