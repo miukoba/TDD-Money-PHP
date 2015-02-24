@@ -5,6 +5,9 @@
   "require": {
     "phpunit/phpunit": "4.5.*"
   },
+  "require-dev": {
+    "codeclimate/php-test-reporter": "@dev"
+  },
   "autoload": {
     "psr-4": {
       "miukoba\\TDD\\": "src/"
