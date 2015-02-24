@@ -23,6 +23,11 @@
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/c86dde9f-aa8e-42a5-88da-72e8a0bbd420/mini.png)](https://insight.sensiolabs.com/projects/c86dde9f-aa8e-42a5-88da-72e8a0bbd420)
 
 
+## VersionEye
+
+[![Dependency Status](https://www.versioneye.com/user/projects/54ec6550249953fa9b000032/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54ec6550249953fa9b000032)
+
+
 ## Gemnasium
 
 [![Dependency Status](https://gemnasium.com/miukoba/TDD-Money-PHP.svg)](https://gemnasium.com/miukoba/TDD-Money-PHP)
